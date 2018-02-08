@@ -18,7 +18,7 @@
 
                 $longUrl = $_POST['url'];
 
-                $apiKey  = 'AIzaSyBw8s-s-aSiPA9nLtuuuzyXhMcWSrBBee8'; 
+                $apiKey  = 'AIzaSyBvaOFhJlGOg6rZ5gHHQwd9-DXB_VIsng4'; 
                 
                 $postData = array('longUrl' => $longUrl);
                 $jsonData = json_encode($postData);
